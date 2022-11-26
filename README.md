@@ -3,7 +3,8 @@
 
 #### Reference : https://www.youtube.com/watch?v=xl0N7tHiwlw&ab_channel=PatrickLoeber
 
-#### Data downlaoded from [Stackoverflow](https://insights.stackoverflow.com/survey)
+##### [Streamlit Docs] (https://docs.streamlit.io/library/get-started)
+#### Data downloaded from [Stackoverflow](https://insights.stackoverflow.com/survey)
 
 #### Storing pickled model
 ![image](https://user-images.githubusercontent.com/4507651/204111995-f0976386-a9e2-4975-a21d-726d9dd25d81.png)
