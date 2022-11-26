@@ -21,3 +21,6 @@
 
 ##### Running prediction
 ![image](https://user-images.githubusercontent.com/4507651/204112025-91bdcb52-e6c0-46b6-8f7a-ee51b9785a6c.png)
+
+### graphical representation
+![image](https://user-images.githubusercontent.com/4507651/204113058-9aaf187a-46a4-4e6c-8fa6-b560d9be8313.png)
